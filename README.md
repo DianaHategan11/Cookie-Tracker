@@ -19,17 +19,6 @@ For each website, the tool collects:
 - Tracker requests and cookies, matched against DuckDuckGo Tracker Radar
 - Top tracker domains observed before consent
 
-## Project structure
-
-```text
-measurement_methodology/
-├── measuring-script.py       # Main measurement script
-└── results/
-    ├── EU/                   # Existing EU measurement outputs
-    ├── VPN/                  # Existing VPN-based measurement outputs
-    └── no_VPN/               # Existing non-VPN measurement outputs
-```
-
 ## How it works
 
 1. Downloads the DuckDuckGo Tracker Radar domain map.
@@ -145,4 +134,10 @@ It includes predefined regional lists for Europe, India, Australia, South Africa
 
 ## Disclaimer
 
-This project is intended for research and educational measurement purposes.
+This project is intended for research and educational measurement purposes only. 
+
+## Ethical Considerations
+
+To minimise potential impact on websites and the network, the measurements are performed at a limited scale and frequency, to about 135 websites. Each website visit makes use of an automated browser that emulates standard browser behaviour and does not generate traffic other than visiting the target website and visiting any third-party website as requested by the website itself. Measurements are repeated only a limited number of times, primarily when collected data is incomplete or to reduce measurement errors to improve the reliability of the results.
+
+All the selected websites are publicly accessible, and only the homepages of these websites are visited by the automated browser. As only publicly available websites are visited using normal website interactions, the collected data only includes requests and cookies set by the websites themselves, and no personal identifiable information will be included.
