@@ -1,0 +1,10 @@
+category,url,region,banner_detected,consent_status,error,total_requests,pre_consent_requests,pre_consent_3p_requests,pre_consent_tracker_requests,total_cookies,pre_consent_cookies,pre_consent_3p_cookies,pre_consent_tracker_cookies,post_consent_requests,post_consent_3p_requests,post_consent_tracker_requests,post_consent_cookies,post_consent_3p_cookies,post_consent_tracker_cookies,top_tracker_domains
+news,https://www.smh.com.au/,AUSTRALIA,True,clicked,,239,213,156,201,20,20,14,15,26,26,26,0,0,0,sportz.io(59); smh.com.au(57); ffx.io(29); google.com(14); doubleclick.net(7)
+e_commerce,https://www.kogan.com/au/,AUSTRALIA,False,not_found,,8,8,4,8,5,5,0,5,0,0,0,0,0,0,kogan.com(4); captcha-delivery.com(4)
+e_commerce,https://www.theiconic.com.au/,AUSTRALIA,False,not_found,,251,251,184,248,82,82,59,82,0,0,0,0,0,0,theiconic.com.au(67); tiktok.com(33); doubleclick.net(15); google.com(12); prismic.io(11)
+social_media,https://www.facebook.com/,AUSTRALIA,False,clicked,,41,37,26,37,4,0,0,0,4,0,4,4,0,4,fbcdn.net(25); facebook.com(11); instagram.com(1)
+social_media,https://www.instagram.com/,AUSTRALIA,False,clicked,,50,46,35,46,7,1,0,1,4,0,4,6,0,6,cdninstagram.com(33); instagram.com(11); facebook.com(2)
+social_media,https://www.linkedin.com/,AUSTRALIA,False,clicked,,76,52,31,52,21,7,0,7,24,10,24,14,11,14,licdn.com(26); linkedin.com(21); google.com(2); microsoft.com(2); protechts.net(1)
+social_media,https://www.reddit.com/,AUSTRALIA,False,clicked,,89,87,67,87,18,17,0,17,2,0,2,1,0,1,redditstatic.com(26); redd.it(26); reddit.com(20); redditmedia.com(11); google.com(3)
+government,https://www.australia.gov.au/,AUSTRALIA,False,not_found,,67,67,66,67,4,4,4,4,0,0,0,0,0,0,my.gov.au(64); australia.gov.au(1); googleapis.com(1); gstatic.com(1)
+education,https://www.unimelb.edu.au/,AUSTRALIA,False,clicked,,132,100,95,94,19,4,2,2,32,32,32,15,15,15,cloudfront.net(70); tiqcdn.com(7); tealiumiq.com(4); optimizely.com(3); googletagmanager.com(3)

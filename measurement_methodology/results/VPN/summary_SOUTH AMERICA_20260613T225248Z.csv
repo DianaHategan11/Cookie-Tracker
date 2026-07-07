@@ -1,0 +1,10 @@
+category,url,region,banner_detected,consent_status,error,total_requests,pre_consent_requests,pre_consent_3p_requests,pre_consent_tracker_requests,total_cookies,pre_consent_cookies,pre_consent_3p_cookies,pre_consent_tracker_cookies,post_consent_requests,post_consent_3p_requests,post_consent_tracker_requests,post_consent_cookies,post_consent_3p_cookies,post_consent_tracker_cookies,top_tracker_domains
+news,https://www.riotimesonline.com/,SOUTH AMERICA,False,not_found,,36,36,5,5,1,1,0,0,0,0,0,0,0,0,googleapis.com(2); googletagmanager.com(1); cloudflareinsights.com(1); gstatic.com(1)
+e_commerce,https://www.magazineluiza.com.br/,SOUTH AMERICA,False,not_found,,117,117,49,112,1079,1079,0,1079,0,0,0,0,0,0,magazineluiza.com.br(68); mlcdn.com.br(37); go-mpulse.net(2); datadoghq-browser-agent.com(1); googletagmanager.com(1)
+e_commerce,https://www.americanas.com.br/,SOUTH AMERICA,False,clicked,,118,113,46,81,22,18,0,18,5,2,3,4,0,4,americanas.com.br(67); googleapis.com(3); gstatic.com(3); vlibras.gov.br(3); googletagmanager.com(1)
+social_media,https://www.facebook.com/,SOUTH AMERICA,False,not_found,,36,36,27,36,3,3,0,3,0,0,0,0,0,0,fbcdn.net(26); facebook.com(9); instagram.com(1)
+social_media,https://www.instagram.com/,SOUTH AMERICA,False,not_found,,47,47,35,47,4,4,0,4,0,0,0,0,0,0,cdninstagram.com(33); instagram.com(12); facebook.com(2)
+social_media,https://www.linkedin.com/,SOUTH AMERICA,False,not_found,,51,51,31,51,8,8,2,8,0,0,0,0,0,0,licdn.com(26); linkedin.com(20); google.com(2); microsoft.com(2); protechts.net(1)
+social_media,https://www.reddit.com/,SOUTH AMERICA,False,not_found,,126,126,99,126,26,26,1,26,0,0,0,0,0,0,redditstatic.com(44); reddit.com(27); redd.it(25); redditmedia.com(22); google.com(4)
+government,https://www.gov.br/,SOUTH AMERICA,False,clicked,,218,109,27,95,2,2,0,2,109,29,95,0,0,0,www.gov.br(82); cloudflare.com(8); vlibras.gov.br(3); jsdelivr.net(1); browser-update.org(1)
+education,https://www5.usp.br/,SOUTH AMERICA,False,not_found,,128,128,27,121,7,7,5,2,0,0,0,0,0,0,usp.br(101); gstatic.com(5); cloudfunctions.net(4); googleapis.com(3); google.com(3)

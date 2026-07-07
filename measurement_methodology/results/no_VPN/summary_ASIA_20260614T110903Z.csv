@@ -1,0 +1,11 @@
+category,url,region,banner_detected,consent_status,error,total_requests,pre_consent_requests,pre_consent_3p_requests,pre_consent_tracker_requests,total_cookies,pre_consent_cookies,pre_consent_3p_cookies,pre_consent_tracker_cookies,post_consent_requests,post_consent_3p_requests,post_consent_tracker_requests,post_consent_cookies,post_consent_3p_cookies,post_consent_tracker_cookies,top_tracker_domains
+news,https://timesofindia.indiatimes.com/,ASIA,True,clicked,,265,206,191,199,55,50,10,50,59,57,56,5,5,5,toiimg.com(94); taboola.com(20); indiatimes.com(15); google.com(11); ccgateway.net(10)
+news,https://www.hindustantimes.com/,ASIA,True,clicked,,267,181,83,181,110,95,7,95,86,86,85,15,15,15,hindustantimes.com(98); google.com(17); gstatic.com(11); ccgateway.net(10); amazon-adsystem.com(7)
+e_commerce,https://www.flipkart.com/,ASIA,False,not_found,,137,137,120,137,9,9,0,9,0,0,0,0,0,0,flixcart.com(101); flipkart.com(17); newrelic.com(13); nr-data.net(6)
+e_commerce,https://www.myntra.com/,ASIA,False,not_found,,63,63,48,63,35,35,2,35,0,0,0,0,0,0,myntassets.com(22); myntra.com(15); snapchat.com(5); googletagmanager.com(3); facebook.net(3)
+social_media,https://www.facebook.com/,ASIA,False,clicked,,41,37,26,37,4,0,0,0,4,0,4,4,0,4,fbcdn.net(25); facebook.com(11); instagram.com(1)
+social_media,https://www.instagram.com/,ASIA,False,clicked,,50,46,35,46,7,1,0,1,4,0,4,6,0,6,cdninstagram.com(33); instagram.com(11); facebook.com(2)
+social_media,https://www.linkedin.com/,ASIA,False,clicked,,83,53,31,53,21,7,0,7,30,10,30,14,11,14,licdn.com(26); linkedin.com(22); google.com(2); microsoft.com(2); protechts.net(1)
+social_media,https://www.reddit.com/,ASIA,False,clicked,,97,95,75,95,18,17,0,17,2,0,2,1,0,1,redd.it(33); redditstatic.com(27); reddit.com(20); redditmedia.com(11); google.com(3)
+government,https://www.passportindia.gov.in/psp,ASIA,False,not_found,,47,47,1,1,4,4,0,0,0,0,0,0,0,0,googletagmanager.com(1)
+education,https://iisc.ac.in/,ASIA,False,not_found,,106,106,27,27,1,1,0,0,0,0,0,0,0,0,google.com(10); googleapis.com(5); adtrafficquality.google(4); gstatic.com(3); bootstrapcdn.com(2)

@@ -1,0 +1,11 @@
+category,url,region,banner_detected,consent_status,error,total_requests,pre_consent_requests,pre_consent_3p_requests,pre_consent_tracker_requests,total_cookies,pre_consent_cookies,pre_consent_3p_cookies,pre_consent_tracker_cookies,post_consent_requests,post_consent_3p_requests,post_consent_tracker_requests,post_consent_cookies,post_consent_3p_cookies,post_consent_tracker_cookies,top_tracker_domains
+news,https://www.africanews.com/,AFRICA,True,clicked,,99,96,70,17,0,0,0,0,3,3,3,0,0,0,privacy-center.org(5); gstatic.com(4); jquery.com(2); adobedtm.com(1); googleapis.com(1)
+news,https://allafrica.com/,AFRICA,True,not_found,,108,108,28,105,0,0,0,0,0,0,0,0,0,0,allafrica.com(80); clickiocdn.com(4); doubleclick.net(4); google-analytics.com(4); googletagmanager.com(4)
+e_commerce,https://www.jumia.com.ng/,AFRICA,False,not_found,,16,16,4,16,6,6,0,6,0,0,0,0,0,0,jumia.com.ng(12); cloudflare.com(4)
+e_commerce,https://www.takealot.com/,AFRICA,False,clicked,,246,243,43,210,31,31,4,29,3,3,3,0,0,0,takealot.com(200); o-s.io(3); facebook.net(2); braze.eu(2); googletagmanager.com(1)
+social_media,https://www.facebook.com/,AFRICA,False,not_found,,34,34,26,34,3,3,0,3,0,0,0,0,0,0,fbcdn.net(25); facebook.com(8); instagram.com(1)
+social_media,https://www.instagram.com/,AFRICA,False,not_found,,47,47,35,47,4,4,0,4,0,0,0,0,0,0,cdninstagram.com(33); instagram.com(12); facebook.com(2)
+social_media,https://www.linkedin.com/,AFRICA,False,not_found,,50,50,31,50,6,6,0,6,0,0,0,0,0,0,licdn.com(26); linkedin.com(19); google.com(2); microsoft.com(2); protechts.net(1)
+social_media,https://www.reddit.com/,AFRICA,False,clicked,,102,100,76,100,23,22,0,22,2,0,2,1,0,1,redditstatic.com(29); reddit.com(24); redditmedia.com(24); redd.it(20); google.com(2)
+government,https://www.gov.za/,AFRICA,False,not_found,,40,40,4,4,0,0,0,0,0,0,0,0,0,0,googleapis.com(1); pagesense.io(1); googletagmanager.com(1); gstatic.com(1)
+education,https://www.uct.ac.za/,AFRICA,False,not_found,,297,297,42,41,52,52,36,36,0,0,0,0,0,0,google-analytics.com(9); cloudflare.com(7); youtube.com(7); googletagmanager.com(5); googleapis.com(5)

@@ -1,0 +1,41 @@
+category,url,region,banner_detected,consent_status,error,total_requests,pre_consent_requests,pre_consent_3p_requests,pre_consent_tracker_requests,total_cookies,pre_consent_cookies,pre_consent_3p_cookies,pre_consent_tracker_cookies,post_consent_requests,post_consent_3p_requests,post_consent_tracker_requests,post_consent_cookies,post_consent_3p_cookies,post_consent_tracker_cookies,top_tracker_domains
+news,https://www.africanews.com/,AFRICA,True,clicked,,132,117,92,27,6,5,5,5,15,15,15,1,1,1,privacy-center.org(5); gstatic.com(4); adobedtm.com(3); demdex.net(3); jquery.com(2)
+news,https://allafrica.com/,AFRICA,True,clicked,,132,80,9,77,24,0,0,0,52,47,52,24,24,24,allafrica.com(71); clickiocdn.com(4); google.com(1); apple.com(1)
+e_commerce,https://www.jumia.com.ng/,AFRICA,False,not_found,,25,25,6,25,10,10,0,10,0,0,0,0,0,0,jumia.com.ng(19); cloudflare.com(6)
+e_commerce,https://www.takealot.com/,AFRICA,False,clicked,,313,305,116,297,47,47,19,45,8,8,8,0,0,0,takealot.com(189); google.com(23); tiktok.com(21); doubleclick.net(9); googletagmanager.com(8)
+social_media,https://www.facebook.com/,AFRICA,False,clicked,,42,37,26,37,4,0,0,0,5,0,5,4,0,4,fbcdn.net(25); facebook.com(11); instagram.com(1)
+social_media,https://www.instagram.com/,AFRICA,False,clicked,,50,46,35,46,7,1,0,1,4,0,4,6,0,6,cdninstagram.com(33); instagram.com(11); facebook.com(2)
+social_media,https://www.linkedin.com/,AFRICA,False,clicked,,82,52,31,52,21,7,0,7,30,10,30,14,11,14,licdn.com(26); linkedin.com(21); google.com(2); microsoft.com(2); protechts.net(1)
+social_media,https://www.reddit.com/,AFRICA,False,clicked,,88,86,66,86,18,17,0,17,2,0,2,1,0,1,redditstatic.com(26); redd.it(26); reddit.com(20); redditmedia.com(10); google.com(3)
+government,https://www.gov.za/,AFRICA,False,error,"Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=149.0.7827.103)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff749c8fd95+15395]
+	chromedriver!GetHandleVerifier [0x7ff749c8fdf0+153f0]
+	chromedriver!(No symbol) [0x7ff7497c78fd]
+	chromedriver!(No symbol) [0x7ff7497c448e]
+	chromedriver!(No symbol) [0x7ff7497b4701]
+	chromedriver!(No symbol) [0x7ff7497b656f]
+	chromedriver!(No symbol) [0x7ff7497b4ca3]
+	chromedriver!(No symbol) [0x7ff7497b446b]
+	chromedriver!(No symbol) [0x7ff7497b4121]
+	chromedriver!(No symbol) [0x7ff7497b1e0b]
+	chromedriver!(No symbol) [0x7ff7497b2552]
+	chromedriver!(No symbol) [0x7ff7497cbba6]
+	chromedriver!(No symbol) [0x7ff74986f8e4]
+	chromedriver!(No symbol) [0x7ff749849d7a]
+	chromedriver!(No symbol) [0x7ff74986eaeb]
+	chromedriver!(No symbol) [0x7ff749813a58]
+	chromedriver!(No symbol) [0x7ff749814953]
+	chromedriver!GetHandleVerifier [0x7ff74a255511+5dab11]
+	chromedriver!GetHandleVerifier [0x7ff74a24f8fb+5d4efb]
+	chromedriver!GetHandleVerifier [0x7ff74a273205+5f8805]
+	chromedriver!GetHandleVerifier [0x7ff749cacc6e+3226e]
+	chromedriver!GetHandleVerifier [0x7ff749cb562c+3ac2c]
+	chromedriver!GetHandleVerifier [0x7ff749c99984+1ef84]
+	chromedriver!GetHandleVerifier [0x7ff749c99b14+1f114]
+	chromedriver!GetHandleVerifier [0x7ff749c7ca77+2077]
+	KERNEL32!BaseThreadInitThunk [0x7fffdfdfe957+17]
+	ntdll!RtlUserThreadStart [0x7fffe18a7c1c+2c]
+",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+education,https://www.uct.ac.za/,AFRICA,False,not_found,,299,299,66,65,10,10,6,6,0,0,0,0,0,0,google.com(18); google-analytics.com(11); cloudflare.com(7); googletagmanager.com(7); googleapis.com(5)
